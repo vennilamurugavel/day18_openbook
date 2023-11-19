@@ -1,0 +1,15 @@
+.card
+{
+   width: 30rem;
+   text-align:center;
+   margin-left:200px;
+}
+
+b{
+    color: green;
+}
+body{
+    background-image: url("https://image.slidesdocs.com/responsive-images/background/blue-education-cute-books-child-book-powerpoint-background_cff8a912a2__960_540.jpg");
+background-repeat: no-repeat;
+
+}
